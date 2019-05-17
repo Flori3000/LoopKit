@@ -1,4 +1,4 @@
-/* Title of the carb entry absorption time cell */
+﻿/* Title of the carb entry absorption time cell */
 "Absorption Time" = "Absorbtionszeit";
 
 /* The title of the button to add the credentials for a service */
@@ -26,7 +26,7 @@
 "carb-entry-title-edit" = "Kohlenhydrate bearbeiten";
 
 /* Carb entry section footer text explaining absorption time */
-"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Wähle eine längere absorbtionszeit für größere Mahlzeiten, oder welche viel Fett und Proteine beinhalten. Dies ist eine Unterstützung für den Algorithmus und muss nicht genau sein.";
+"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Wähle eine längere Absorbtionszeit für größere Mahlzeiten, oder welche viel Fett und Proteine beinhalten. Dies ist eine Unterstützung für den Algorithmus und muss nicht genau sein.";
 
 /* The format string describing the date of a COB value. The first format argument is the localized date. */
 "com.loudnate.CarbKit.COBDateLabel" = "bei %1$@";
@@ -113,10 +113,10 @@
 "text-placeholder-required" = "Erforderlich";
 
 /* Alert body displayed absorption time greater than max (1: maximum absorption time) */
-"The maximum absorption time is %@" = "Die maximale absorption time ist %@";
+"The maximum absorption time is %@" = "Die maximale Absorbtionszeit ist %@";
 
 /* Alert body displayed for quantity greater than max (1: maximum quantity in grams) */
-"The maximum allowed amount is %@ grams" = "Die maximale Anzahl an Gramm is %@ grams";
+"The maximum allowed amount is %@ grams" = "Die maximale Menge in Gramm ist %@ grams";
 
 /* The schedule table view header describing the configured time zone difference from the default time zone. The substitution parameters are: (1: time zone name)(2: +/-)(3: time interval) */
 "Times in %1$@%2$@%3$@" = "Zeit in %1$@%2$@%3$@";
